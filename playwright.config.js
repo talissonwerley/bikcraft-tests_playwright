@@ -7,7 +7,7 @@ export default defineConfig({
   reporter: [['html', { open: 'never' }]],
   use: {
     baseURL: 'https://bikcraft-gamma.vercel.app',
-    headless: false,
+    headless: true,
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
     actionTimeout: 10000,
