@@ -73,25 +73,25 @@ cd bikcraft-tests_playwright
 npm install
 ```
 
-## 🌐 3. Instale os navegadores do Playwright
+### 🌐 3. Instale os navegadores do Playwright
 
 ```
 npx playwright install
 ```
 
-## ▶️ 4. Execute todos os testes
+### ▶️ 4. Execute todos os testes
 
 ```
 npx playwright test
 ```
 
-## 🧭 Executar testes em modo UI (visual)
+### 🧭 Executar testes em modo UI (visual)
 
 ```
 npx playwright test --ui
 ```
 
-## 📝 Executar um teste específico
+### 📝 Executar um teste específico
 
 ```
 npx playwright test tests/bikes.spec.js
