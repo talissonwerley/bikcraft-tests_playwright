@@ -1,0 +1,12 @@
+{
+  "nome": "Teste",
+  "sobrenome": "Testador",
+  "cpf": "123.456.789-00",
+  "email": "teste@testador.com",
+  "cep": "12345-678",
+  "numero": "0001",
+  "logradouro": "Rua do teste",
+  "bairro": "Centro",
+  "cidade": "Cidade Teste",
+  "estado": "ST"
+}

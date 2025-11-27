@@ -1,0 +1,14 @@
+{
+  "name": "bikcraft-tests",
+  "version": "1.0.0",
+  "description": "Testes funcionais e de regressão automatizados para o site de e-commerce Bikcraft (https://bikcraft-gamma.vercel.app/) usando o Playwright. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "author": "Talisson Werley",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2"
+  }
+}
